@@ -1,2 +1,2 @@
-# StockMarket
+# SM
 Project for keeping my code where I gather data about stock market and analyse it.
